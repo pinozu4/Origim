@@ -1,0 +1,120 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+/*  */
+
+.tiut_admin a{
+	text-decoration: none;
+	color: white;
+}
+.tiut_admin{
+	padding: 50px 0;
+	text-align: center;
+}
+
+/*  */
+
+.sec_admin{
+	padding: 20px 0px;
+}
+.sec_admin a{
+	text-decoration: none;
+	color: white;
+	
+}
+.sec_admin a:hover{
+	border-bottom: 1px solid white;
+	padding-bottom: 5px;
+}
+i{
+	margin-right: 15px;
+	color: white;
+}
+.sec_admin div{
+	margin: 5px 0;
+	padding: 15px 30px;
+}
+
+/*  */
+
+.mas .icono{
+	background: rgba(9, 132, 227,1.0);
+	padding: 10px 120px;
+	text-decoration: none;
+	color: white;
+}
+.mas .iconoo{
+	background: rgba(214, 48, 49,1.0);
+	padding: 10px 104px;	
+	text-decoration: none;
+	color: white;
+}
+.mas div{
+	margin: 30px 0;
+}
+.mas{
+	margin: 55px 0;
+}
+.mas .icono:hover{
+	background: rgba(9, 132, 227,0.8);
+}
+.mas .iconoo:hover{
+	background: rgba(214, 48, 49,0.8);
+}
+
+/*  */
+
+
+
+
+
+
+
+.contUno{
+	background: rgba(0,0,0,0.9);
+	position: fixed;
+}
+.contDos h1{
+	text-align: center;
+	margin-top: 50px;
+}
+
+.linea{
+	margin: 0 auto;
+	height: 1px;
+	width: 150px;
+	background: black;
+}
+
+#formulario{
+	padding: 30px 0;
+}
+.cont{
+	margin-top: 30px;
+}
+.cuadro{
+	width: 100%;
+	height: 300px;
+	padding: 5px 10px;
+	border-radius: 5px;
+	border: 1px solid gray;
+	max-height: 300px;
+	min-height: 300px;
+}
+.cuadro:focus{
+	border: 1px solid rgba(9, 132, 227,1.0); 
+}
+
+/*  */
+
+.caja{
+	padding: 5px 10px;
+	border-radius: 5px;
+	border: 1px solid gray;
+}
+.caja:focus{
+	border: 1px solid rgba(9, 132, 227,1.0); 
+}

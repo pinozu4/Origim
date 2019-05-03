@@ -1,0 +1,96 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+/*  */
+
+.tiut_admin a{
+	text-decoration: none;
+	color: white;
+}
+.tiut_admin{
+	padding: 50px 0;
+	text-align: center;
+}
+
+/*  */
+
+.sec_admin{
+	padding: 20px 0px;
+}
+.sec_admin a{
+	text-decoration: none;
+	color: white;
+	
+}
+.sec_admin a:hover{
+	border-bottom: 1px solid white;
+	padding-bottom: 5px;
+}
+i{
+	margin-right: 15px;
+	color: white;
+}
+.sec_admin div{
+	margin: 5px 0;
+	padding: 15px 30px;
+}
+
+/*  */
+
+.mas .icono{
+	background: rgba(9, 132, 227,1.0);
+	padding: 10px 120px;
+	text-decoration: none;
+	color: white;
+}
+.mas .iconoo{
+	background: rgba(214, 48, 49,1.0);
+	padding: 10px 104px;	
+	text-decoration: none;
+	color: white;
+}
+.mas div{
+	margin: 30px 0;
+}
+.mas{
+	margin: 55px 0;
+}
+.mas .icono:hover{
+	background: rgba(9, 132, 227,0.8);
+}
+.mas .iconoo:hover{
+	background: rgba(214, 48, 49,0.8);
+}
+
+/*  */
+
+
+
+
+
+
+
+
+
+/*  */
+
+.contUno{
+	background: rgba(0,0,0,0.9);
+}
+.contDos p{
+	text-align: center;
+	font-size: 40px;
+}
+.contDos{
+	margin-top: 100px;
+}
+.image img{
+	width: 200px;
+}
+.image{
+	display: flex;
+	justify-content: center;
+	margin-top: 100px;
+}

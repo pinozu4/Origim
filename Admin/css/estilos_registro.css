@@ -1,0 +1,52 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: none;
+
+}
+body{
+	background: #487eb0;
+}
+.registro div input{
+	width: 500px;
+	border: 1px solid gray;
+}
+.contenido{
+	margin: 100px 90px;
+	display: flex;
+}
+.titu{
+	margin-bottom: 50px;
+}
+.tres{
+	margin-bottom: 60px;
+}
+
+.btn_re{
+	padding: 5px 10px;
+	background: rgba(9, 132, 227,1.0);
+	font-size: 15px;
+	margin: 0 10px;
+	color: white;
+
+}
+.btn_re:hover{
+	background: rgba(9, 132, 227,0.7);
+	color: white;
+}
+a{
+	color: white;
+	font-size: 15px;
+	text-decoration: none;
+	padding: 7px 10px;
+	background: rgba(214, 48, 49,1.0);
+	text-decoration: none;
+}
+a:hover{
+	background:  rgba(214, 48, 49,0.7);
+	color: white;
+	text-decoration: none;
+}
+.imagen{
+	margin: 100px 120px;
+}
