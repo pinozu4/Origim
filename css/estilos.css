@@ -491,7 +491,7 @@ p{
 .iconoMensaje{
 	position: absolute;
 	left: 530px;
-	top: 250px;
+	top: 350px;
 	width: 80px;
 	height: 60px;
 	z-index: 999;
@@ -517,7 +517,7 @@ p{
 	background: #3fa9f5;
 	position: absolute;
 	left: 510px;
-	top: 266px;
+	top: 370px;
 	z-index: 999;
 	margin: 0 40px;
 	border-radius: 50%;
@@ -541,7 +541,7 @@ p{
 	background: #3fa9f5;
 	position: absolute;
 	left: 525px;
-	top: 266px;
+	top: 370px;
 	z-index: 999;
 	margin: 0 40px;
 	border-radius: 50%;
@@ -565,7 +565,7 @@ p{
 	background: #3fa9f5;
 	position: absolute;
 	left: 540px;
-	top: 266px;
+	top: 370px;
 	z-index: 999;
 	margin: 0 40px;
 	border-radius: 50%;
@@ -758,8 +758,8 @@ p{
 	border-radius: 25px; 
 	position: absolute;
 	background: #ffff;
-	top: 150px;
-	right:300px;
+	top: 100px;
+	right:400px;
 	font-family: "fjallaOne";
 	color: green;
 	font-size: 1em;
@@ -1332,7 +1332,7 @@ p{
 .iconoMensajeRoma{
 	position: absolute;
 	left: 530px;
-	top: 250px;
+	top: 350px;
 	width: 80px;
 	height: 60px;
 	z-index: 999;
@@ -1353,13 +1353,13 @@ p{
 	}
 }
 
-.mensajeInfos .circu1{
+.mensajeInfos2 .circu1{
 	width: 10px;
 	height: 10px;
 	background: #3fa9f5;
 	position: absolute;
 	left: 510px;
-	top: 266px;
+	top: 370px;
 	z-index: 999;
 	margin: 0 40px;
 	border-radius: 50%;
@@ -1377,13 +1377,13 @@ p{
 		opacity: 0;
 	}
 }
-.mensajeInfos .circu2{
+.mensajeInfos2 .circu2{
 	width: 10px;
 	height: 10px;
 	background: #3fa9f5;
 	position: absolute;
 	left: 525px;
-	top: 266px;
+	top: 370px;
 	z-index: 999;
 	margin: 0 40px;
 	border-radius: 50%;
@@ -1401,13 +1401,13 @@ p{
 		opacity: 0;
 	}
 }
-.mensajeInfos .circu3{
+.mensajeInfos2 .circu3{
 	width: 10px;
 	height: 10px;
 	background: #3fa9f5;
 	position: absolute;
 	left: 540px;
-	top: 266px;
+	top: 370px;
 	z-index: 999;
 	margin: 0 40px;
 	border-radius: 50%;
@@ -1603,7 +1603,7 @@ p{
 .infoRoma2 .personaje img:nth-child(2){
 	position: absolute;
 	left: 0;
-	bottom: 60px;
+	bottom: 150px;
 	width: 120px;
 	z-index: 1001;
 }
@@ -1633,8 +1633,8 @@ p{
 	z-index: 1001
 }
 .infoRoma3 .btnRoma2{
-	right: 420px;
-	top: 300px;
+	right: 435px;
+	top: 210px;
 }
 
 .infoRoma3 .contInfo{
@@ -1867,7 +1867,7 @@ p{
 .iconoMensajeEnigma{
 	position: absolute;
 	left: 530px;
-	top: 250px;
+	top: 350px;
 	width: 80px;
 	height: 60px;
 	z-index: 999;
@@ -1887,13 +1887,13 @@ p{
 		transform: scale(.9);
 	}
 }
-.mensajeInfos .circu1{
+.mensajeInfos3 .circu1{
 	width: 10px;
 	height: 10px;
 	background: #3fa9f5;
 	position: absolute;
 	left: 510px;
-	top: 266px;
+	top: 370px;
 	z-index: 999;
 	margin: 0 40px;
 	border-radius: 50%;
@@ -1911,13 +1911,13 @@ p{
 		opacity: 0;
 	}
 }
-.mensajeInfos .circu2{
+.mensajeInfos3 .circu2{
 	width: 10px;
 	height: 10px;
 	background: #3fa9f5;
 	position: absolute;
 	left: 525px;
-	top: 266px;
+	top: 370px;
 	z-index: 999;
 	margin: 0 40px;
 	border-radius: 50%;
@@ -1935,13 +1935,13 @@ p{
 		opacity: 0;
 	}
 }
-.mensajeInfos .circu3{
+.mensajeInfos3 .circu3{
 	width: 10px;
 	height: 10px;
 	background: #3fa9f5;
 	position: absolute;
 	left: 540px;
-	top: 266px;
+	top: 370px;
 	z-index: 999;
 	margin: 0 40px;
 	border-radius: 50%;
@@ -2136,6 +2136,7 @@ p{
 }
 .infoEnig2 .personaje img:nth-child(2){
 	position: absolute;
+	top: 305px;
 	left: 0;
 	bottom: 150px;
 	width: 120px;
