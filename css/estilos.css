@@ -1603,7 +1603,7 @@ p{
 .infoRoma2 .personaje img:nth-child(2){
 	position: absolute;
 	left: 0;
-	bottom: 150px;
+	bottom: 119px;
 	width: 120px;
 	z-index: 1001;
 }
@@ -2805,8 +2805,8 @@ p{
 
 .modernaCinco .borbuja p{
 	position: absolute;
-	left: 320px;
-	top: 260px;
+	left: 385px;
+	top: 337px;
 	z-index: 10;
 	color: black;
 	text-shadow: 1px 2px 3px transparent;
@@ -2815,8 +2815,8 @@ p{
 }
 
 .modernaCinco .borbuja img{
-	width: 800px;
-	height: 400px;
+	width: 715px;
+	height: 350px;
 	position: absolute;
 	bottom: -300px;
 	left: 250px;
